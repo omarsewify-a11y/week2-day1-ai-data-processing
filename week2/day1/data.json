@@ -1,0 +1,19 @@
+[
+    {"student_name":"Ahmed Ali","category":"Technical Support","message":"Cannot log into portal","status":"Open"},
+    {"student_name":"Sara Omar","category":"Course Inquiry","message":"Need course information","status":"Closed"},
+    {"student_name":"Mohamed Hassan","category":"Technical Support","message":"Password reset required","status":"Open"},
+    {"student_name":"Lina Khalid","category":"Admission","message":"Admission requirements","status":"Closed"},
+    {"student_name":"Yousef Salem","category":"Technical Support","message":"Website not loading","status":"Open"},
+    {"student_name":"Fatima Noor","category":"Course Inquiry","message":"Course schedule question","status":"Closed"},
+    {"student_name":"Ali Mahmoud","category":"Payment","message":"Tuition payment issue","status":"Open"},
+    {"student_name":"Mariam Adel","category":"Admission","message":"Application status update","status":"Closed"},
+    {"student_name":"Omar Saeed","category":"Technical Support","message":"Account locked","status":"Open"},
+    {"student_name":"Noura Ahmed","category":"Payment","message":"Receipt request","status":"Closed"},
+    {"student_name":"Hassan Ibrahim","category":"Course Inquiry","message":"Course availability","status":"Open"},
+    {"student_name":"Reem Fathy","category":"Technical Support","message":"Error uploading assignment","status":"Open"},
+    {"student_name":"Khalid Jamal","category":"Admission","message":"Transfer student inquiry","status":"Closed"},
+    {"student_name":"Aisha Tariq","category":"Payment","message":"Refund request","status":"Open"},
+    {"student_name":"Zaid Karim","category":"Technical Support","message":"Mobile app issue","status":"Open"},
+    {"student_name":"Dana Sami","category":"Course Inquiry","message":"Registration assistance","status":"Closed"},
+    {"student_name":"Rami Nabil","category":"Technical Support","message":"Email access problem","status":"Open"}
+]
